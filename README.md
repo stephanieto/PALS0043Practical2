@@ -1,4 +1,3 @@
-# PALS0043Practical2
-Created during PALS0043 practical 2
-my first ever github file
-yo
+# PALS0043Homework2
+This is the repo I created for HW2
+
